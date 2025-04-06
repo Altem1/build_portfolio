@@ -1,0 +1,12 @@
+.img-portafolio{
+    height: 150px;
+    margin-right: 15px;
+}
+
+.body-nude{
+    display: flex;
+    margin: 0 auto;
+    justify-content: center;
+    align-items: center;
+    width: 50%;
+}

@@ -1,0 +1,47 @@
+.Footer {
+    justify-content: center; /* Centra los ol horizontalmente */
+    align-items: center; /* Centra verticalmente */
+    gap: 20px; /* Espacio entre listas */
+    width: 100%;
+    background-color: rgb(33,45,58);
+    color: white;
+    position: relative;
+    bottom: 0;
+    margin-top: auto;
+    padding: 10px 0;    
+}
+
+ol {
+    
+    list-style: none; /* Quita los estilos de lista */
+    display: flex;
+    justify-content: center; /* Centra horizontalmente */
+    align-items: center;
+    padding: 10px 0 0 0;
+}
+
+.enlace {
+    gap: 20px; /* Espacio entre los elementos <li> */
+    margin-bottom: 0px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+}
+
+.imagen {
+    gap: 30px; /* Espacio entre imágenes */
+    margin-top: 0px;
+    padding-bottom: 0px;
+}
+
+.imagen li{
+    width: 50px;
+}
+
+.img-footer{
+    width: 30px;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}

@@ -1,0 +1,18 @@
+.container-about{
+    display: flex;
+    width: 70%;
+    margin: 0 auto;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.foto-about{
+    display: flex;
+    justify-content: center;
+}
+
+.foto-about img{
+    margin: 0 auto;
+    width: 70%;
+}

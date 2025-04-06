@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Doto:wght@100..900&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+
+html, body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto';
+  }
+
+  .page-container {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh; /* La página ocupa toda la altura */
+  }
+  
+  .content {
+    flex: 1; /* Esto empuja el footer hacia abajo */
+    margin: 0 auto;
+    align-content: center;
+    width: 90%;
+  } 
