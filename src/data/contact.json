@@ -9,8 +9,8 @@
     {
         "id": 2,
         "tipo": "WhatsApp",
-        "dato": "444 319 3339",
-        "enlace": "https://wa.me/524443193339",
+        "dato": "444 230 5813",
+        "enlace": "https://wa.me/524442305813",
         "ico": "fa-brands fa-whatsapp"
     },
     {
@@ -22,7 +22,7 @@
     },{
         "id": 4,
         "tipo": "Teléfono",
-        "dato":"444 319 3339",
+        "dato":"444 230 5813",
         "enlace": "",
         "ico":"fa-brands fa-whatsapp"
     },{
