@@ -33,7 +33,7 @@ const Contactame = () => {
 
         
         <div className="me">
-            <img src={Me} />
+            <img src={Me} alt="img alucion a mi" />
             <h2>José Emilio Antonio Jiménez</h2>
         </div>
 
