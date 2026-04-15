@@ -1,3 +1,8 @@
+body{
+    background-color: #161717;
+    color: white;
+}
+
 .project-card {
     display: flex;
     margin-bottom: 2rem;
